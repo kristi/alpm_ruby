@@ -1,0 +1,36 @@
+%NAME%
+a2ps
+
+%VERSION%
+4.14-1
+
+%DESC%
+a2ps is an Any to PostScript filter
+
+%REPLACES%
+a2ps-lprng
+
+%URL%
+http://www.gnu.org/software/a2ps/
+
+%LICENSE%
+GPL3
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1237772265
+
+%INSTALLDATE%
+1268900589
+
+%PACKAGER%
+Eric Belanger <eric@archlinux.org>
+
+%SIZE%
+4800512
+
+%REASON%
+1
+

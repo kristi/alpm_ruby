@@ -1,0 +1,4 @@
+%DEPENDS%
+glib2>=2.18.4
+libxml2>=2.7.3
+

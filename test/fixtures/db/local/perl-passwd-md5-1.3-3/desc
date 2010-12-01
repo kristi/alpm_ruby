@@ -1,0 +1,34 @@
+%NAME%
+perl-passwd-md5
+
+%VERSION%
+1.3-3
+
+%DESC%
+Provides a crypt()-compatible interface to new MD5-based crypt()
+
+%URL%
+http://search.cpan.org/dist/Crypt-PasswdMD5/
+
+%LICENSE%
+GPL
+PerlArtistic
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1201155880
+
+%INSTALLDATE%
+1275126682
+
+%PACKAGER%
+Eric Belanger <eric@archlinux.org>
+
+%SIZE%
+42198
+
+%REASON%
+1
+

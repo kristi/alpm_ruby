@@ -1,0 +1,33 @@
+%NAME%
+libcroco
+
+%VERSION%
+0.6.2-1
+
+%DESC%
+GNOME CSS2 parsing and manipulation toolkit
+
+%URL%
+http://www.gnome.org
+
+%LICENSE%
+LGPL
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1234640864
+
+%INSTALLDATE%
+1267276687
+
+%PACKAGER%
+Jan de Groot <jgc@archlinux.org>
+
+%SIZE%
+536576
+
+%REASON%
+1
+

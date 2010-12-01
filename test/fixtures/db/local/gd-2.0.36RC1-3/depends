@@ -1,0 +1,6 @@
+%DEPENDS%
+perl
+libpng>=1.4.0
+fontconfig
+libjpeg>=8
+

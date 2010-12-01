@@ -1,0 +1,30 @@
+%NAME%
+aspell-en
+
+%VERSION%
+6.0-2
+
+%DESC%
+English dictionary for aspell
+
+%URL%
+http://aspell.net/
+
+%LICENSE%
+custom
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1238121140
+
+%INSTALLDATE%
+1273346088
+
+%PACKAGER%
+Eric Belanger <eric@archlinux.org>
+
+%SIZE%
+3842048
+

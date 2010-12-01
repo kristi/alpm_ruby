@@ -1,0 +1,11 @@
+%DEPENDS%
+wget
+diffutils
+pacman>=3.2.0
+
+%OPTDEPENDS%
+aurvote: vote for favorite packages from AUR for inclusion in [community]
+customizepkg: automatically modify PKGUILD during install/upgrade
+pacman-color: fully colorized output
+colordiff: colorized output with yaourt -C
+

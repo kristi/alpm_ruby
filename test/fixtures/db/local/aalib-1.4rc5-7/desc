@@ -1,0 +1,33 @@
+%NAME%
+aalib
+
+%VERSION%
+1.4rc5-7
+
+%DESC%
+AAlib is a portable ASCII art GFX library
+
+%URL%
+http://aa-project.sourceforge.net/aalib/
+
+%LICENSE%
+LGPL
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1288238208
+
+%INSTALLDATE%
+1288359715
+
+%PACKAGER%
+Allan McRae <allan@archlinux.org>
+
+%SIZE%
+733184
+
+%REASON%
+1
+

@@ -1,0 +1,6 @@
+%DEPENDS%
+glibc
+ncurses
+gpm>=1.20.4
+libx11
+

@@ -1,0 +1,7 @@
+%DEPENDS%
+sdl>=1.2.13
+libpng
+libjpeg>=7
+libtiff
+zlib
+

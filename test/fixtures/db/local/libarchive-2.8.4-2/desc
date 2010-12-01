@@ -1,0 +1,30 @@
+%NAME%
+libarchive
+
+%VERSION%
+2.8.4-2
+
+%DESC%
+library that can create and read several streaming archive formats
+
+%URL%
+http://libarchive.googlecode.com/
+
+%LICENSE%
+BSD
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1287986881
+
+%INSTALLDATE%
+1288359782
+
+%PACKAGER%
+Pierre Schmitz <pierre@archlinux.de>
+
+%SIZE%
+1576960
+

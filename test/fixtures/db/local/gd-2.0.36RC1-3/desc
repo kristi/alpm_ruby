@@ -1,0 +1,33 @@
+%NAME%
+gd
+
+%VERSION%
+2.0.36RC1-3
+
+%DESC%
+Library for the dynamic creation of images by programmers
+
+%URL%
+http://www.libgd.org/
+
+%LICENSE%
+custom
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1263989004
+
+%INSTALLDATE%
+1283434627
+
+%PACKAGER%
+Biru Ionut <ionut@archlinux.ro>
+
+%SIZE%
+851968
+
+%REASON%
+1
+

@@ -1,0 +1,13 @@
+%FILES%
+usr/
+usr/include/
+usr/include/SDL/
+usr/include/SDL/SDL_image.h
+usr/lib/
+usr/lib/libSDL_image-1.2.so.0
+usr/lib/libSDL_image-1.2.so.0.8.2
+usr/lib/libSDL_image.a
+usr/lib/libSDL_image.so
+usr/lib/pkgconfig/
+usr/lib/pkgconfig/SDL_image.pc
+

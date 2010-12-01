@@ -1,0 +1,30 @@
+%NAME%
+gedit-plugins
+
+%VERSION%
+2.32.0-1
+
+%DESC%
+Set of plugins for gedit
+
+%URL%
+http://live.gnome.org/GeditPlugins
+
+%LICENSE%
+GPL
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1286194480
+
+%INSTALLDATE%
+1286604687
+
+%PACKAGER%
+Ionut Biru <ibiru@archlinux.org>
+
+%SIZE%
+3096576
+

@@ -1,0 +1,9 @@
+%DEPENDS%
+perl
+gcc-libs
+texinfo
+
+%OPTDEPENDS%
+netpbm: for use together with man -H command interaction in browsers
+psutils: for use together with man -H command interaction in browsers
+

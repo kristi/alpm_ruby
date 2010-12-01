@@ -1,0 +1,33 @@
+%NAME%
+a52dec
+
+%VERSION%
+0.7.4-4
+
+%DESC%
+liba52 is a free library for decoding ATSC A/52 streams.
+
+%URL%
+http://liba52.sourceforge.net/
+
+%LICENSE%
+GPL2
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1216418676
+
+%INSTALLDATE%
+1267313751
+
+%PACKAGER%
+Jan de Groot <jgc@archlinux.org>
+
+%SIZE%
+212846
+
+%REASON%
+1
+

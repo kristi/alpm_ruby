@@ -1,0 +1,30 @@
+%NAME%
+midori
+
+%VERSION%
+0.2.9-1
+
+%DESC%
+A lightweight web browser based on Gtk WebKit
+
+%URL%
+http://www.twotoasts.de/index.php?/pages/midori_summary.html
+
+%LICENSE%
+LGPL2.1
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1288635565
+
+%INSTALLDATE%
+1289650013
+
+%PACKAGER%
+Andreas Radke <andyrtr@archlinux.org>
+
+%SIZE%
+3119104
+

@@ -1,0 +1,33 @@
+%NAME%
+fftw
+
+%VERSION%
+3.2.2-1
+
+%DESC%
+A library for computing the discrete Fourier transform (DFT)
+
+%URL%
+http://www.fftw.org/
+
+%LICENSE%
+GPL2
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1252356308
+
+%INSTALLDATE%
+1273085993
+
+%PACKAGER%
+Ronald van Haren <ronald.archlinux.org>
+
+%SIZE%
+9629696
+
+%REASON%
+1
+

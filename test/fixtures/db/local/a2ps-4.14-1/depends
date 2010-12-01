@@ -1,0 +1,9 @@
+%DEPENDS%
+ghostscript
+psutils
+imagemagick
+perl
+
+%PROVIDES%
+a2ps-lprng
+

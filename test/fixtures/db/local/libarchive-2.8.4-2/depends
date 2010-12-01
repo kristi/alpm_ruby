@@ -1,0 +1,8 @@
+%DEPENDS%
+zlib
+bzip2
+xz>=5.0.0
+acl
+openssl>=1.0.0
+expat
+

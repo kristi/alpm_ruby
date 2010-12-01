@@ -1,0 +1,33 @@
+%NAME%
+libspectre
+
+%VERSION%
+0.2.6-2
+
+%DESC%
+Small library for rendering Postscript documents
+
+%URL%
+http://libspectre.freedesktop.org/wiki/
+
+%LICENSE%
+GPL2
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1286705343
+
+%INSTALLDATE%
+1287571206
+
+%PACKAGER%
+Andreas Radke <andyrtr@archlinux.org>
+
+%SIZE%
+110592
+
+%REASON%
+1
+

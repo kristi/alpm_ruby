@@ -1,0 +1,33 @@
+%NAME%
+libao
+
+%VERSION%
+1.0.0-2
+
+%DESC%
+A cross-platform audio output library and plugins
+
+%URL%
+http://www.xiph.org/ao
+
+%LICENSE%
+GPL
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1276954220
+
+%INSTALLDATE%
+1280650088
+
+%PACKAGER%
+Ionut Biru <ibiru@archlinux.org>
+
+%SIZE%
+335872
+
+%REASON%
+1
+

@@ -1,0 +1,33 @@
+%NAME%
+grep
+
+%VERSION%
+2.7-1
+
+%DESC%
+A string search utility
+
+%GROUPS%
+base
+
+%URL%
+http://www.gnu.org/software/grep/grep.html
+
+%LICENSE%
+GPL3
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1285039549
+
+%INSTALLDATE%
+1285999710
+
+%PACKAGER%
+Allan McRae <allan@archlinux.org>
+
+%SIZE%
+1142784
+

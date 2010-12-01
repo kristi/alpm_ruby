@@ -1,0 +1,34 @@
+%NAME%
+libbonoboui
+
+%VERSION%
+2.24.4-1
+
+%DESC%
+User Interface library for Bonobo
+
+%URL%
+http://www.gnome.org
+
+%LICENSE%
+GPL
+LGPL
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1285692650
+
+%INSTALLDATE%
+1286604592
+
+%PACKAGER%
+Ionut Biru <ibiru@archlinux.org>
+
+%SIZE%
+3592192
+
+%REASON%
+1
+

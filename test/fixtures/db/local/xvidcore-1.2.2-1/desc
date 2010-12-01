@@ -1,0 +1,33 @@
+%NAME%
+xvidcore
+
+%VERSION%
+1.2.2-1
+
+%DESC%
+XviD is an open source MPEG-4 video codec
+
+%URL%
+http://www.xvid.org/
+
+%LICENSE%
+GPL
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1259721235
+
+%INSTALLDATE%
+1267313750
+
+%PACKAGER%
+Giovanni Scafora <giovanni@archlinux.org>
+
+%SIZE%
+1774592
+
+%REASON%
+1
+

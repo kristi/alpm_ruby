@@ -1,0 +1,36 @@
+%NAME%
+bc
+
+%VERSION%
+1.06-7
+
+%DESC%
+An arbitrary precision calculator language
+
+%REPLACES%
+bc-readline
+
+%URL%
+http://www.gnu.org/software/bc/
+
+%LICENSE%
+GPL
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1257517886
+
+%INSTALLDATE%
+1289692117
+
+%PACKAGER%
+Eric Belanger <eric@archlinux.org>
+
+%SIZE%
+233472
+
+%REASON%
+1
+

@@ -1,0 +1,33 @@
+%NAME%
+sdl_image
+
+%VERSION%
+1.2.10-2
+
+%DESC%
+A simple library to load images of various formats as SDL surfaces
+
+%URL%
+http://www.libsdl.org/projects/SDL_image/
+
+%LICENSE%
+LGPL
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1264241489
+
+%INSTALLDATE%
+1281263409
+
+%PACKAGER%
+Eric Belanger <eric@archlinux.org>
+
+%SIZE%
+192512
+
+%REASON%
+1
+

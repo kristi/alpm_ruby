@@ -1,0 +1,18 @@
+%FILES%
+etc/
+etc/colordiffrc
+etc/colordiffrc-lightbg
+usr/
+usr/bin/
+usr/bin/cdiff
+usr/bin/colordiff
+usr/share/
+usr/share/man/
+usr/share/man/man1/
+usr/share/man/man1/cdiff.1.gz
+usr/share/man/man1/colordiff.1.gz
+
+%BACKUP%
+etc/colordiffrc	b46b9845ea8c39993adea27e607ac234
+etc/colordiffrc-lightbg	a2594a96d8a7708864d42a1ea01631e7
+

@@ -1,0 +1,33 @@
+%NAME%
+xcb-proto
+
+%VERSION%
+1.6-2
+
+%DESC%
+XML-XCB protocol descriptions
+
+%URL%
+http://xcb.freedesktop.org/
+
+%LICENSE%
+custom
+
+%ARCH%
+any
+
+%BUILDDATE%
+1282217000
+
+%INSTALLDATE%
+1287571408
+
+%PACKAGER%
+Jan de Groot <jgc@archlinux.org>
+
+%SIZE%
+565248
+
+%REASON%
+1
+

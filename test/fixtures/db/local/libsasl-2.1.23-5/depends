@@ -1,0 +1,7 @@
+%DEPENDS%
+db>=4.8
+
+%OPTDEPENDS%
+cyrus-sasl: saslauthd
+cyrus-sasl-plugins: authentication plugins other than sasldb
+

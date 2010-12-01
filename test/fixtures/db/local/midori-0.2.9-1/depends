@@ -1,0 +1,13 @@
+%DEPENDS%
+libwebkit
+libunique
+hicolor-icon-theme
+desktop-file-utils
+libnotify
+libxss
+sqlite3
+glib2
+
+%OPTDEPENDS%
+vala: for use in extensions
+

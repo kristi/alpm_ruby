@@ -1,0 +1,1 @@
+/home/chris/.rvm/src/ruby-1.9.2-p0/

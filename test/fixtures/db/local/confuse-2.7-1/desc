@@ -1,0 +1,33 @@
+%NAME%
+confuse
+
+%VERSION%
+2.7-1
+
+%DESC%
+C-library for parsing configuration files
+
+%URL%
+http://www.nongnu.org/confuse
+
+%LICENSE%
+LGPL
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1274538607
+
+%INSTALLDATE%
+1280649722
+
+%PACKAGER%
+Ionut Biru <ibiru@archlinux.org>
+
+%SIZE%
+229376
+
+%REASON%
+1
+

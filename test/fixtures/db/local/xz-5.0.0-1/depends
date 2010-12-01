@@ -1,0 +1,13 @@
+%DEPENDS%
+sh
+
+%CONFLICTS%
+lzma
+lzma-utils
+xz-utils
+
+%PROVIDES%
+lzma
+lzma-utils
+xz-utils
+

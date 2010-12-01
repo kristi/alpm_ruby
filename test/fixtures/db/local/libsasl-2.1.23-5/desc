@@ -1,0 +1,33 @@
+%NAME%
+libsasl
+
+%VERSION%
+2.1.23-5
+
+%DESC%
+Cyrus Simple Authentication Service Layer (SASL) library
+
+%URL%
+http://cyrusimap.web.cmu.edu/downloads.html#sasl
+
+%LICENSE%
+custom
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1287488580
+
+%INSTALLDATE%
+1289650007
+
+%PACKAGER%
+Allan McRae <allan@archlinux.org>
+
+%SIZE%
+417792
+
+%REASON%
+1
+

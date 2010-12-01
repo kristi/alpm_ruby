@@ -1,0 +1,4 @@
+%DEPENDS%
+libgnomecanvas>=2.30.2
+libgnome>=2.32.0
+

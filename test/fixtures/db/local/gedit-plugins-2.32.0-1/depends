@@ -1,0 +1,7 @@
+%DEPENDS%
+gedit>=2.30.0
+vte
+gucharmap
+gnome-python
+dbus-python
+

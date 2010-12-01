@@ -1,0 +1,33 @@
+%NAME%
+file
+
+%VERSION%
+5.04-3
+
+%DESC%
+File type identification utility
+
+%GROUPS%
+base
+
+%URL%
+http://www.darwinsys.com/file/
+
+%LICENSE%
+custom
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1290186384
+
+%INSTALLDATE%
+1290761489
+
+%PACKAGER%
+Stéphane Gaudreault <stephane@archlinux.org>
+
+%SIZE%
+2187264
+

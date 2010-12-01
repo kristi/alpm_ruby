@@ -1,0 +1,18 @@
+%DEPENDS%
+libtool
+lcms
+libxt
+gcc-libs
+bzip2
+freetype2
+fontconfig
+libxext
+
+%OPTDEPENDS%
+ghostscript: for Ghostscript support
+openexr: for OpenEXR support
+libwmf: for WMF support
+librsvg: for SVG support
+libxml2: for XML support
+jasper: for JPEG-2000 support
+
