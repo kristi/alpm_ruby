@@ -1,0 +1,35 @@
+have_library: checking for alpm_initialize() in -lalpm... -------------------- yes
+
+"gcc -o conftest -I/home/chris/.rvm/rubies/ruby-1.9.2-p0/include/ruby-1.9.1/x86_64-linux -I/home/chris/.rvm/rubies/ruby-1.9.2-p0/include/ruby-1.9.1/ruby/backward -I/home/chris/.rvm/rubies/ruby-1.9.2-p0/include/ruby-1.9.1 -I.     -O3 -ggdb -Wextra -Wno-unused-parameter -Wno-parentheses -Wpointer-arith -Wwrite-strings -Wno-missing-field-initializers -Wno-long-long  -fPIC conftest.c  -L. -L/home/chris/.rvm/rubies/ruby-1.9.2-p0/lib -Wl,-R/home/chris/.rvm/rubies/ruby-1.9.2-p0/lib -L.  -rdynamic -Wl,-export-dynamic     -Wl,-R -Wl,/home/chris/.rvm/rubies/ruby-1.9.2-p0/lib -L/home/chris/.rvm/rubies/ruby-1.9.2-p0/lib -lruby-static  -lpthread -lrt -ldl -lcrypt -lm   -lc"
+checked program was:
+/* begin */
+1: #include "ruby.h"
+2: 
+3: int main() {return 0;}
+/* end */
+
+"gcc -o conftest -I/home/chris/.rvm/rubies/ruby-1.9.2-p0/include/ruby-1.9.1/x86_64-linux -I/home/chris/.rvm/rubies/ruby-1.9.2-p0/include/ruby-1.9.1/ruby/backward -I/home/chris/.rvm/rubies/ruby-1.9.2-p0/include/ruby-1.9.1 -I.     -O3 -ggdb -Wextra -Wno-unused-parameter -Wno-parentheses -Wpointer-arith -Wwrite-strings -Wno-missing-field-initializers -Wno-long-long  -fPIC conftest.c  -L. -L/home/chris/.rvm/rubies/ruby-1.9.2-p0/lib -Wl,-R/home/chris/.rvm/rubies/ruby-1.9.2-p0/lib -L.  -rdynamic -Wl,-export-dynamic     -Wl,-R -Wl,/home/chris/.rvm/rubies/ruby-1.9.2-p0/lib -L/home/chris/.rvm/rubies/ruby-1.9.2-p0/lib -lruby-static -lalpm  -lpthread -lrt -ldl -lcrypt -lm   -lc"
+conftest.c: In function ‘t’:
+conftest.c:5:53: error: ‘alpm_initialize’ undeclared (first use in this function)
+conftest.c:5:53: note: each undeclared identifier is reported only once for each function it appears in
+checked program was:
+/* begin */
+1: #include "ruby.h"
+2: 
+3: /*top*/
+4: int main() {return 0;}
+5: int t() { void ((*volatile p)()); p = (void ((*)()))alpm_initialize; return 0; }
+/* end */
+
+"gcc -o conftest -I/home/chris/.rvm/rubies/ruby-1.9.2-p0/include/ruby-1.9.1/x86_64-linux -I/home/chris/.rvm/rubies/ruby-1.9.2-p0/include/ruby-1.9.1/ruby/backward -I/home/chris/.rvm/rubies/ruby-1.9.2-p0/include/ruby-1.9.1 -I.     -O3 -ggdb -Wextra -Wno-unused-parameter -Wno-parentheses -Wpointer-arith -Wwrite-strings -Wno-missing-field-initializers -Wno-long-long  -fPIC conftest.c  -L. -L/home/chris/.rvm/rubies/ruby-1.9.2-p0/lib -Wl,-R/home/chris/.rvm/rubies/ruby-1.9.2-p0/lib -L.  -rdynamic -Wl,-export-dynamic     -Wl,-R -Wl,/home/chris/.rvm/rubies/ruby-1.9.2-p0/lib -L/home/chris/.rvm/rubies/ruby-1.9.2-p0/lib -lruby-static -lalpm  -lpthread -lrt -ldl -lcrypt -lm   -lc"
+checked program was:
+/* begin */
+1: #include "ruby.h"
+2: 
+3: /*top*/
+4: int main() {return 0;}
+5: int t() { alpm_initialize(); return 0; }
+/* end */
+
+--------------------
+

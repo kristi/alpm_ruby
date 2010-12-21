@@ -9,5 +9,6 @@
 #include <stdio.h>
 #include <string.h>
 
-VALUE alpm_ruby;
-VALUE alpm_list;
+#include <alpm.h>
+
+extern VALUE mAlpmRuby;

@@ -2,7 +2,6 @@
 
 static VALUE t_init(VALUE self, VALUE tree)
 {
-  printf("initialized");
   return self;
 }
 
@@ -10,9 +9,10 @@ static VALUE t_init(VALUE self, VALUE tree)
 //  rb_define_method(alpm_list, "initialize", t_init, 1);
 //}
 
+VALUE cAlpmList;
 void init_alpm_list()
 {
-  alpm_list = rb_define_class_under(alpm_ruby, "AlpmList", rb_cObject);
+  VALUE klass = cAlpmList = rb_define_class_under(mAlpmRuby, "AlpmList", rb_cObject);
 
-  rb_define_singleton_method(alpm_list, "new", t_init, 2);
+  rb_define_singleton_method(klass, "new", t_init, 2);
 }

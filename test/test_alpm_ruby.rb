@@ -1,28 +1,23 @@
 require File.expand_path('../helper.rb', __FILE__)
 
 class TestAlpmRuby < Test::Unit::TestCase
-  def test_truth
-    assert true
-  end
-
   def test_instantiation
     assert defined?(AlpmRuby)
-    assert defined?(AlpmRuby::AlpmList)
+    assert defined?(AlpmRuby::AlpmRuby)
   end
 
   def test_respond_to_methods
-    assert_respond_to AlpmRuby::AlpmList, :new
-    #assert_respond_to klass.new, :interpolate
+    assert_respond_to AlpmRuby::AlpmRuby, :new
   end
 
   def test_method_signatures
     assert_nothing_raised do
-      klass.new("1", "2")
+      alpmruby.new
     end
   end
 
   protected
-    def klass
-      AlpmRuby::AlpmList
+    def alpmruby
+      AlpmRuby::AlpmRuby
     end
 end

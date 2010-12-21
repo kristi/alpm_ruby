@@ -11,4 +11,7 @@
 
 #include "alpm_ruby.h"
 
-VALUE alpm_list;
+void init_alpm_list();
+
+//This may be able to go away, since it's declared in alpm_ruby.h
+extern VALUE cAlpmList;
