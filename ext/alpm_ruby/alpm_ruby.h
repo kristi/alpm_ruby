@@ -11,4 +11,4 @@
 
 #include <alpm.h>
 
-extern VALUE mAlpmRuby;
+extern VALUE mAlpm;
