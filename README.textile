@@ -1,0 +1,3 @@
+h2. alpm_ruby "!http://travis-ci.org/flooose/alpm_ruby.png!":http://travis-ci.org/flooose/alpm_ruby
+
+An attempt at getting ruby bindings for the Arch Linux package management library.
