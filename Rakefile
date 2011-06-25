@@ -1,7 +1,7 @@
 require 'rake/extensiontask'
 require 'rake/testtask'
 
-task :default => [:test]
+task :default => [:clobber, :compile, :test]
 
 Rake::ExtensionTask.new('alpm_ruby') do |ext|
   project_root = File.expand_path('..', __FILE__)
