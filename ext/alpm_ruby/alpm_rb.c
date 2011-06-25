@@ -34,7 +34,7 @@ VALUE cAlpm;
 void init_alpm_ruby(){
   VALUE klass = cAlpm= rb_define_class_under(mAlpm, "Alpm", rb_cObject);
 
-  rb_define_method(klass, "new", t_init, 0);
+  rb_define_method(klass, "initialize", t_init, 0);
   rb_define_method(klass, "db_path", get_db_path, 0);
   rb_define_method(klass, "db_path=", set_db_path, 1);
 }
